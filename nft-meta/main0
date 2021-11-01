@@ -1,6 +1,7 @@
 {
   "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
   "animation_url": "https://cryptotokens.github.io", 
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1280px-Image_created_with_a_mobile_phone.png",
   "name": "Dave Starbelly",
   "attributes": [ ... ], 
 }
